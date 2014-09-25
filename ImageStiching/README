@@ -1,0 +1,8 @@
+
+SIFT 特征提取的代码来自 David G. Lowe
+http://www.cs.ubc.ca/~lowe/keypoints/
+
+本次试验中
+sift.m 对源代码中sift.m做了少量修改
+且只用到了特征提取的部分
+之后匹配，拼接的部分由自己完成
